@@ -1,0 +1,238 @@
+body {
+	background-color: steelblue;
+}
+.clear {
+	clear:both;
+}
+
+
+img.logo {
+	padding-left:20px;
+	padding-top:10px;
+	max-width: 200px;
+	max-height: 300px;
+	float:left;
+}
+
+nav ul li{
+	display: inline-block;
+	margin-top: 7%;
+	margin-left: 5%;
+	font-size: 2.5em;
+	color:#6B361B;
+	font-family: arial;
+	font-style: bold;
+	}
+
+a{
+	color: #6B361B;
+	text-decoration: none;
+}
+
+a:hover{
+	color: steelblue;
+}
+
+header {
+	background-color: gold;
+	padding-bottom: .5%;
+	display: inline-block;
+    width: 100%;
+}
+
+header img {
+	width: 20%;
+	float: left;
+}
+
+header .main-nav {
+	float: left;
+	width: 50%;
+}
+
+header .social {
+	float: left;
+	width: 30%;
+	text-align: right;
+}
+
+ul.profile-social-links {
+	display: block;
+	list-style:none;
+	padding-top: none;
+	padding: 10px;
+}
+
+img.pic1 {
+	width: 100%;
+	height: 50%;
+}
+
+div.name {
+	background-color: gold;
+	text-align: center;
+	color:#6B361B;
+	font-family:arial;
+	font-style: italic;
+	font-size: 2em;
+}
+
+footer {
+	background-color: gold;
+}
+
+footer ul li {
+	background-color: gold;
+	color: #6B361B;
+	display: inline-block;
+}
+
+li.phone {
+	padding-left: 75%;
+}
+
+li.address {
+	padding-left: 0;
+}
+
+div.ms {
+	font-size: 2em;
+	color:gold;
+	text-align:center;
+	margin-bottom: 30px;
+	font-family: arial;
+
+}
+
+.mission-content-wrap ul {
+	padding: 0;
+	margin: 0;
+}
+
+.mission-content-wrap ul li.image-wrap {
+	width: 20%;
+	float: left;
+	list-style: none;
+}
+
+.mission-content-wrap ul li.image-wrap img {
+	width: 100%;
+	height: auto;
+}
+
+.mission-content-wrap ul li.mission-statement {
+	width: 40%;
+	float: left;
+	list-style: none;
+	background-color: gold;
+	color:#6B361B;
+	font-family: arial;
+	font-size: 1.85em;
+	padding: 30px;
+	margin-bottom: 40px;
+	margin-left: 93px;
+	margin-right: 93px;
+}
+
+/*****About Page*******/
+
+
+h1 {
+	background-color: gold;
+	text-align: center;
+	color:#6B361B;
+	font-family:arial;
+	font-style: italic;
+	font-size: 4em;
+}
+
+div.about-info ul li {
+	list-style: none;
+	display: inline;
+	width:25%;
+	float:left;
+	padding-left: 100px;
+	padding-right:100px;
+	margin-left: 40px;
+}
+
+li.para {
+	padding: 20px;
+	font-family:arial;
+	color: #6B361B;
+	background-color: gold;
+}
+
+.about_logo {
+	margin-left: 520px;
+	max-width: 200px;
+	padding-top:40px;
+	max-height: 200px;
+}
+
+h1.contact{
+	background-color: gold;
+	text-align: center;
+	color:#6B361B;
+	font-family:arial;
+	font-style: italic;
+	font-size: 2em;
+	margin-left:30%;
+	margin-right:30%;
+}
+
+ul.contact_info {
+	background-color: gold;
+	color:#6B361B;
+	list-style: none;
+	text-align: center;
+	margin-left:30%;
+	margin-right:30%;
+	font-family: arial;
+}
+
+
+/***menu page****/
+
+#menu-items {
+	padding: 0;
+
+}
+
+.menu-item {
+	width: 25%;
+	float: left;
+	list-style-type: none;
+	background-color: gold;
+}
+
+.menu-item img {
+	width: 100%;
+	height: 300px;
+}
+
+.menu-item ul{
+	list-style: none;
+	font-size: 0.5em;
+	text-align: left;
+	padding-left: 0;
+}
+
+.menu-item ul li{
+
+}
+
+h2 {
+	text-align: none;
+	font-family: arial;
+	color: #6B361B;
+	border: solid;
+	padding: 20px;
+	margin: 0;
+	text-align: center;
+	}
+
+.menu_footer {
+	margin-top: 200px;
+}
+
